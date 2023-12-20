@@ -1,4 +1,4 @@
-package Uri
+package uri
 
 import java.util.*
 
